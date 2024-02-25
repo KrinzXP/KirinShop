@@ -1,0 +1,6 @@
+com\kirinslair\kirinshop\KirinShopApplication.class
+com\kirinslair\kirinshop\data\repository\ShopItemRepository.class
+com\kirinslair\kirinshop\data\model\entity\ShopItems.class
+com\kirinslair\kirinshop\data\controller\ShopItemController.class
+com\kirinslair\kirinshop\data\model\dto\ShopItemsDto.class
+com\kirinslair\kirinshop\data\service\ShopItemServices.class
